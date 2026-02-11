@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-02-11T18:50:15.390Z",
-  "total": 10,
+  "generated": "2026-02-11T18:51:21.965Z",
+  "total": 15,
   "vehicles": [
     {
       "id": "312ab6595d3e4ebd8ee1c18ff25fa048",
@@ -85,7 +85,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/d87095db289f405bb43aa086bb4321d0",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:50:15.390Z"
+      "added": "2026-02-11T18:51:21.965Z"
     },
     {
       "id": "86ee7c1a83334576933ab431542269d5",
@@ -99,7 +99,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/86ee7c1a83334576933ab431542269d5",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:50:15.390Z"
+      "added": "2026-02-11T18:51:21.965Z"
     },
     {
       "id": "b4f03b00fe6646fa88ff93390255416e",
@@ -113,7 +113,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/b4f03b00fe6646fa88ff93390255416e",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:50:15.390Z"
+      "added": "2026-02-11T18:51:21.965Z"
     },
     {
       "id": "d9247ac53d064449898d259c11036904",
@@ -127,7 +127,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/d9247ac53d064449898d259c11036904",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:50:15.390Z"
+      "added": "2026-02-11T18:51:21.965Z"
     },
     {
       "id": "27165067b9ca48049db8e83fee3b57e2",
@@ -141,7 +141,77 @@
       "sourceUrl": "https://sketchfab.com/3d-models/27165067b9ca48049db8e83fee3b57e2",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:50:15.390Z"
+      "added": "2026-02-11T18:51:21.965Z"
+    },
+    {
+      "id": "69dbf0293c6f4959a90d5bd0d68e097f",
+      "make": "BMW",
+      "model": "M340i XDrive",
+      "year": "2020",
+      "trim": "",
+      "filename": "2020_bmw_m340i-xdrive_69dbf0",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_bmw_m340i-xdrive_69dbf0.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/69dbf0293c6f4959a90d5bd0d68e097f",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:51:21.965Z"
+    },
+    {
+      "id": "6c8e1edf1eb44cb49e4b688d9f3b40ee",
+      "make": "Chevrolet",
+      "model": "Camaro Z28",
+      "year": "1970",
+      "trim": "",
+      "filename": "1970_chevrolet_camaro-z28_6c8e1e",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1970_chevrolet_camaro-z28_6c8e1e.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/6c8e1edf1eb44cb49e4b688d9f3b40ee",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:51:21.965Z"
+    },
+    {
+      "id": "76401039fa80419ab036bea09acb898d",
+      "make": "BMW",
+      "model": "Coupe (E36)",
+      "year": "1993",
+      "trim": "",
+      "filename": "1993_bmw_coupe-e36-_764010",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1993_bmw_coupe-e36-_764010.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/76401039fa80419ab036bea09acb898d",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:51:21.965Z"
+    },
+    {
+      "id": "96a423cba0ff4a7f82aee9d885abb9af",
+      "make": "Subaru",
+      "model": "WRX STI",
+      "year": "2018",
+      "trim": "",
+      "filename": "2018_subaru_wrx-sti_96a423",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2018_subaru_wrx-sti_96a423.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/96a423cba0ff4a7f82aee9d885abb9af",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:51:21.965Z"
+    },
+    {
+      "id": "5ad6db0db9ec44aaa63e1c9f3be54a6e",
+      "make": "Dodge",
+      "model": "Charger R/T",
+      "year": "2012",
+      "trim": "",
+      "filename": "2012_dodge_charger-r-t_5ad6db",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2012_dodge_charger-r-t_5ad6db.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/5ad6db0db9ec44aaa63e1c9f3be54a6e",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:51:21.965Z"
     }
   ]
 }
