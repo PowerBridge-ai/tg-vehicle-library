@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-02-11T18:48:34.427Z",
-  "total": 5,
+  "generated": "2026-02-11T18:50:15.390Z",
+  "total": 10,
   "vehicles": [
     {
       "id": "312ab6595d3e4ebd8ee1c18ff25fa048",
@@ -72,6 +72,76 @@
       "hasInterior": false,
       "hasSunroof": false,
       "added": "2026-02-11T18:48:34.427Z"
+    },
+    {
+      "id": "d87095db289f405bb43aa086bb4321d0",
+      "make": "Lamborghini",
+      "model": "Gallardo LP570-4",
+      "year": "2011",
+      "trim": "",
+      "filename": "2011_lamborghini_gallardo-lp570-4_d87095",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2011_lamborghini_gallardo-lp570-4_d87095.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/d87095db289f405bb43aa086bb4321d0",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:50:15.390Z"
+    },
+    {
+      "id": "86ee7c1a83334576933ab431542269d5",
+      "make": "BMW",
+      "model": "3.0 CSL",
+      "year": "1973",
+      "trim": "",
+      "filename": "1973_bmw_3-0-csl_86ee7c",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1973_bmw_3-0-csl_86ee7c.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/86ee7c1a83334576933ab431542269d5",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:50:15.390Z"
+    },
+    {
+      "id": "b4f03b00fe6646fa88ff93390255416e",
+      "make": "Subaru",
+      "model": "WRX KUHL",
+      "year": "2018",
+      "trim": "",
+      "filename": "2018_subaru_wrx-kuhl_b4f03b",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2018_subaru_wrx-kuhl_b4f03b.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/b4f03b00fe6646fa88ff93390255416e",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:50:15.390Z"
+    },
+    {
+      "id": "d9247ac53d064449898d259c11036904",
+      "make": "Kuhl",
+      "model": "Racing VAB-GT",
+      "year": "2018",
+      "trim": "",
+      "filename": "2018_kuhl_racing-vab-gt_d9247a",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2018_kuhl_racing-vab-gt_d9247a.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/d9247ac53d064449898d259c11036904",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:50:15.390Z"
+    },
+    {
+      "id": "27165067b9ca48049db8e83fee3b57e2",
+      "make": "Bentley",
+      "model": "Continental Speed",
+      "year": "2013",
+      "trim": "",
+      "filename": "2013_bentley_continental-speed_271650",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2013_bentley_continental-speed_271650.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/27165067b9ca48049db8e83fee3b57e2",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:50:15.390Z"
     }
   ]
 }
