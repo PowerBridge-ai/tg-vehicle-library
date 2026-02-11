@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-02-11T20:59:30.353Z",
-  "total": 66,
+  "generated": "2026-02-11T21:01:13.576Z",
+  "total": 69,
   "vehicles": [
     {
       "id": "0000_-updated-_pagani-huayra_487f1a",
@@ -698,6 +698,45 @@
       "hasInterior": false,
       "hasSunroof": false,
       "added": "2026-02-11T20:59:30.353Z"
+    },
+    {
+      "id": "2018_bmw_unknown_30fa0c",
+      "make": "BMW",
+      "model": "Unknown",
+      "year": "2018",
+      "trim": "",
+      "filename": "2018_bmw_unknown_30fa0c.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2018_bmw_unknown_30fa0c.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/30fa0c4408bc43be8c3a67c51fcc6184",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T21:00:15.828Z"
+    },
+    {
+      "id": "2020_dodge_challenger-srt_aa90fb",
+      "make": "Dodge",
+      "model": "Challenger SRT",
+      "year": "2020",
+      "trim": "",
+      "filename": "2020_dodge_challenger-srt_aa90fb.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_dodge_challenger-srt_aa90fb.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/aa90fb46c153459bbf50def4040a0a34",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T21:00:54.203Z"
+    },
+    {
+      "id": "2020_mercedes-benz_w11_6c0e66",
+      "make": "Mercedes-Benz",
+      "model": "W11",
+      "year": "2020",
+      "trim": "",
+      "filename": "2020_mercedes-benz_w11_6c0e66.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_mercedes-benz_w11_6c0e66.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/6c0e669402c34133b4b516f4ca2ba9e4",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T21:01:13.576Z"
     }
   ]
 }
