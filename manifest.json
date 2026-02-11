@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-02-11T19:55:33.089Z",
-  "total": 54,
+  "generated": "2026-02-11T20:52:52.824Z",
+  "total": 60,
   "vehicles": [
     {
       "id": "0000_-updated-_pagani-huayra_487f1a",
@@ -542,6 +542,84 @@
       "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/sports_car_01.glb",
       "size": 0,
       "added": "2026-02-11T19:55:33.089Z"
+    },
+    {
+      "id": "0000_maserati_quattroporte-gts_d3f5b7",
+      "make": "Maserati",
+      "model": "Quattroporte GTS",
+      "year": null,
+      "trim": "",
+      "filename": "0000_maserati_quattroporte-gts_d3f5b7.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_maserati_quattroporte-gts_d3f5b7.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/d3f5b7aba0af418ba041e833f96ff70d",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:48:33.304Z"
+    },
+    {
+      "id": "0000_lamborghini_huracan-gt3_d2a1be",
+      "make": "Lamborghini",
+      "model": "Huracan GT3",
+      "year": null,
+      "trim": "",
+      "filename": "0000_lamborghini_huracan-gt3_d2a1be.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_lamborghini_huracan-gt3_d2a1be.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/d2a1be8146854f7786a59f58bdba0f1a",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:49:13.152Z"
+    },
+    {
+      "id": "0000_dodge_charger-srt_b222b6",
+      "make": "Dodge",
+      "model": "Charger SRT",
+      "year": null,
+      "trim": "",
+      "filename": "0000_dodge_charger-srt_b222b6.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_dodge_charger-srt_b222b6.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/b222b6cb1d2c485293546b4157f48ecf",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:50:50.400Z"
+    },
+    {
+      "id": "0000_bmw_e53-restyling_1dfdb4",
+      "make": "BMW",
+      "model": "E53 RESTYLING",
+      "year": null,
+      "trim": "",
+      "filename": "0000_bmw_e53-restyling_1dfdb4.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_bmw_e53-restyling_1dfdb4.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/1dfdb422f05d44b287e332bec4311c50",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:51:54.435Z"
+    },
+    {
+      "id": "0000_porsche_911-turbo_fe573c",
+      "make": "Porsche",
+      "model": "911 Turbo",
+      "year": null,
+      "trim": "",
+      "filename": "0000_porsche_911-turbo_fe573c.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_porsche_911-turbo_fe573c.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/fe573c66c5c64a1c82cfbd0162ccc7d5",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:52:17.130Z"
+    },
+    {
+      "id": "0000_bmw_g80-notextures-_23cb6b",
+      "make": "BMW",
+      "model": "G80 NoTextures!!",
+      "year": null,
+      "trim": "",
+      "filename": "0000_bmw_g80-notextures-_23cb6b.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_bmw_g80-notextures-_23cb6b.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/23cb6bee94ef449d8289516bdc1cb6ba",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:52:52.824Z"
     }
   ]
 }
