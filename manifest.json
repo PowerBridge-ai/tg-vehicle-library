@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-02-11T21:01:13.576Z",
-  "total": 69,
+  "generated": "2026-02-11T21:03:03.197Z",
+  "total": 72,
   "vehicles": [
     {
       "id": "0000_-updated-_pagani-huayra_487f1a",
@@ -737,6 +737,45 @@
       "hasInterior": false,
       "hasSunroof": false,
       "added": "2026-02-11T21:01:13.576Z"
+    },
+    {
+      "id": "2020_mclaren_mcl35_9b962b",
+      "make": "McLaren",
+      "model": "MCL35",
+      "year": "2020",
+      "trim": "",
+      "filename": "2020_mclaren_mcl35_9b962b.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_mclaren_mcl35_9b962b.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/9b962b233892491285cb6f467d43ab46",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T21:01:58.066Z"
+    },
+    {
+      "id": "2020_ferrari_sf1000_b41d5f",
+      "make": "Ferrari",
+      "model": "SF1000",
+      "year": "2020",
+      "trim": "",
+      "filename": "2020_ferrari_sf1000_b41d5f.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_ferrari_sf1000_b41d5f.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/b41d5f1096664601ad1f511ca4cd138f",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T21:02:31.092Z"
+    },
+    {
+      "id": "2020_alpha_tauri-at01_17158b",
+      "make": "Alpha",
+      "model": "Tauri AT01",
+      "year": "2020",
+      "trim": "",
+      "filename": "2020_alpha_tauri-at01_17158b.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_alpha_tauri-at01_17158b.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/17158b9541c94d73a9b7a9da1b278955",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T21:03:03.197Z"
     }
   ]
 }
