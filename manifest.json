@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-02-11T18:51:21.965Z",
-  "total": 15,
+  "generated": "2026-02-11T18:52:18.077Z",
+  "total": 20,
   "vehicles": [
     {
       "id": "312ab6595d3e4ebd8ee1c18ff25fa048",
@@ -85,7 +85,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/d87095db289f405bb43aa086bb4321d0",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:51:21.965Z"
+      "added": "2026-02-11T18:52:18.077Z"
     },
     {
       "id": "86ee7c1a83334576933ab431542269d5",
@@ -99,7 +99,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/86ee7c1a83334576933ab431542269d5",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:51:21.965Z"
+      "added": "2026-02-11T18:52:18.077Z"
     },
     {
       "id": "b4f03b00fe6646fa88ff93390255416e",
@@ -113,7 +113,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/b4f03b00fe6646fa88ff93390255416e",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:51:21.965Z"
+      "added": "2026-02-11T18:52:18.077Z"
     },
     {
       "id": "d9247ac53d064449898d259c11036904",
@@ -127,7 +127,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/d9247ac53d064449898d259c11036904",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:51:21.965Z"
+      "added": "2026-02-11T18:52:18.077Z"
     },
     {
       "id": "27165067b9ca48049db8e83fee3b57e2",
@@ -141,7 +141,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/27165067b9ca48049db8e83fee3b57e2",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:51:21.965Z"
+      "added": "2026-02-11T18:52:18.077Z"
     },
     {
       "id": "69dbf0293c6f4959a90d5bd0d68e097f",
@@ -155,7 +155,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/69dbf0293c6f4959a90d5bd0d68e097f",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:51:21.965Z"
+      "added": "2026-02-11T18:52:18.077Z"
     },
     {
       "id": "6c8e1edf1eb44cb49e4b688d9f3b40ee",
@@ -169,7 +169,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/6c8e1edf1eb44cb49e4b688d9f3b40ee",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:51:21.965Z"
+      "added": "2026-02-11T18:52:18.077Z"
     },
     {
       "id": "76401039fa80419ab036bea09acb898d",
@@ -183,7 +183,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/76401039fa80419ab036bea09acb898d",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:51:21.965Z"
+      "added": "2026-02-11T18:52:18.077Z"
     },
     {
       "id": "96a423cba0ff4a7f82aee9d885abb9af",
@@ -197,7 +197,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/96a423cba0ff4a7f82aee9d885abb9af",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:51:21.965Z"
+      "added": "2026-02-11T18:52:18.077Z"
     },
     {
       "id": "5ad6db0db9ec44aaa63e1c9f3be54a6e",
@@ -211,7 +211,77 @@
       "sourceUrl": "https://sketchfab.com/3d-models/5ad6db0db9ec44aaa63e1c9f3be54a6e",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:51:21.965Z"
+      "added": "2026-02-11T18:52:18.077Z"
+    },
+    {
+      "id": "56f7ee71b2cb42ab88142a9517f56b9a",
+      "make": "Ginetta",
+      "model": "G60",
+      "year": "2011",
+      "trim": "",
+      "filename": "2011_ginetta_g60_56f7ee",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2011_ginetta_g60_56f7ee.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/56f7ee71b2cb42ab88142a9517f56b9a",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:52:18.077Z"
+    },
+    {
+      "id": "8b063519ced9423db1210bb2423c7d2a",
+      "make": "Austin",
+      "model": "Mini Cooper",
+      "year": "1965",
+      "trim": "",
+      "filename": "1965_austin_mini-cooper_8b0635",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1965_austin_mini-cooper_8b0635.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/8b063519ced9423db1210bb2423c7d2a",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:52:18.077Z"
+    },
+    {
+      "id": "016f43239d6644bea388ce48a245a372",
+      "make": "Mini",
+      "model": "Cooper Roadster",
+      "year": "2015",
+      "trim": "",
+      "filename": "2015_mini_cooper-roadster_016f43",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2015_mini_cooper-roadster_016f43.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/016f43239d6644bea388ce48a245a372",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:52:18.077Z"
+    },
+    {
+      "id": "f8fa0409d83a4b099590dbcc7884a908",
+      "make": "Mini",
+      "model": "John Cooper",
+      "year": "2020",
+      "trim": "",
+      "filename": "2020_mini_john-cooper_f8fa04",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_mini_john-cooper_f8fa04.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/f8fa0409d83a4b099590dbcc7884a908",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:52:18.077Z"
+    },
+    {
+      "id": "021d519c1afd46cca1bcbd4a0cb30eef",
+      "make": "Mini",
+      "model": "John Cooper",
+      "year": "2017",
+      "trim": "",
+      "filename": "2017_mini_john-cooper_021d51",
+      "type": "glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2017_mini_john-cooper_021d51.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/021d519c1afd46cca1bcbd4a0cb30eef",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T18:52:18.077Z"
     }
   ]
 }
