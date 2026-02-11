@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generated": "2026-02-11T19:53:16.664Z",
+  "generated": "2026-02-11T19:55:33.089Z",
   "total": 54,
   "vehicles": [
     {
@@ -9,9 +9,9 @@
       "model": " UPDATED  PAGANI HUAYRA 487F1A",
       "year": null,
       "filename": "0000_-updated-_pagani-huayra_487f1a.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/0000_-updated-_pagani-huayra_487f1a.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_-updated-_pagani-huayra_487f1a.glb",
       "size": 19768200,
-      "added": "2026-02-11T19:53:16.645Z"
+      "added": "2026-02-11T19:55:33.057Z"
     },
     {
       "id": "0000_aston_martin-db11_81ca13",
@@ -19,9 +19,9 @@
       "model": "ASTON MARTIN DB11 81CA13",
       "year": null,
       "filename": "0000_aston_martin-db11_81ca13.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/0000_aston_martin-db11_81ca13.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_aston_martin-db11_81ca13.glb",
       "size": 13534652,
-      "added": "2026-02-11T19:53:16.647Z"
+      "added": "2026-02-11T19:55:33.071Z"
     },
     {
       "id": "0000_dodge_srt-viper_e984e3",
@@ -29,9 +29,9 @@
       "model": "DODGE SRT VIPER E984E3",
       "year": null,
       "filename": "0000_dodge_srt-viper_e984e3.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/0000_dodge_srt-viper_e984e3.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_dodge_srt-viper_e984e3.glb",
       "size": 7667060,
-      "added": "2026-02-11T19:53:16.647Z"
+      "added": "2026-02-11T19:55:33.071Z"
     },
     {
       "id": "0000_honda_s800-www-vecarz-com_c75bda",
@@ -39,9 +39,9 @@
       "model": "HONDA S800 WWW VECARZ COM C75BDA",
       "year": null,
       "filename": "0000_honda_s800-www-vecarz-com_c75bda.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/0000_honda_s800-www-vecarz-com_c75bda.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_honda_s800-www-vecarz-com_c75bda.glb",
       "size": 16592268,
-      "added": "2026-02-11T19:53:16.647Z"
+      "added": "2026-02-11T19:55:33.071Z"
     },
     {
       "id": "0000_lotus_unknown_6b3adb",
@@ -49,9 +49,9 @@
       "model": "LOTUS UNKNOWN 6B3ADB",
       "year": null,
       "filename": "0000_lotus_unknown_6b3adb.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/0000_lotus_unknown_6b3adb.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_lotus_unknown_6b3adb.glb",
       "size": 58820192,
-      "added": "2026-02-11T19:53:16.648Z"
+      "added": "2026-02-11T19:55:33.072Z"
     },
     {
       "id": "0000_mercedes_amg_312ab6",
@@ -59,9 +59,9 @@
       "model": "MERCEDES AMG 312AB6",
       "year": null,
       "filename": "0000_mercedes_amg_312ab6.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/0000_mercedes_amg_312ab6.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_mercedes_amg_312ab6.glb",
       "size": 36594032,
-      "added": "2026-02-11T19:53:16.648Z"
+      "added": "2026-02-11T19:55:33.072Z"
     },
     {
       "id": "0000_porsche_911-turbo_081cf9",
@@ -69,9 +69,9 @@
       "model": "PORSCHE 911 TURBO 081CF9",
       "year": null,
       "filename": "0000_porsche_911-turbo_081cf9.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/0000_porsche_911-turbo_081cf9.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/0000_porsche_911-turbo_081cf9.glb",
       "size": 22701224,
-      "added": "2026-02-11T19:53:16.649Z"
+      "added": "2026-02-11T19:55:33.073Z"
     },
     {
       "id": "1938_zis_101a-sport_4b08f4",
@@ -79,9 +79,9 @@
       "model": "ZIS 101A SPORT 4B08F4",
       "year": null,
       "filename": "1938_zis_101a-sport_4b08f4.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1938_zis_101a-sport_4b08f4.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/1938_zis_101a-sport_4b08f4.glb",
       "size": 47280636,
-      "added": "2026-02-11T19:53:16.649Z"
+      "added": "2026-02-11T19:55:33.073Z"
     },
     {
       "id": "1965_austin_mini-cooper_8b0635",
@@ -89,9 +89,9 @@
       "model": "AUSTIN MINI COOPER 8B0635",
       "year": null,
       "filename": "1965_austin_mini-cooper_8b0635.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1965_austin_mini-cooper_8b0635.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/1965_austin_mini-cooper_8b0635.glb",
       "size": 2693620,
-      "added": "2026-02-11T19:53:16.649Z"
+      "added": "2026-02-11T19:55:33.073Z"
     },
     {
       "id": "1970_chevrolet_camaro-z28_6c8e1e",
@@ -99,9 +99,9 @@
       "model": "CHEVROLET CAMARO Z28 6C8E1E",
       "year": null,
       "filename": "1970_chevrolet_camaro-z28_6c8e1e.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1970_chevrolet_camaro-z28_6c8e1e.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/1970_chevrolet_camaro-z28_6c8e1e.glb",
       "size": 15170576,
-      "added": "2026-02-11T19:53:16.650Z"
+      "added": "2026-02-11T19:55:33.074Z"
     },
     {
       "id": "1973_bmw_3-0-csl_86ee7c",
@@ -109,9 +109,9 @@
       "model": "BMW 3 0 CSL 86EE7C",
       "year": null,
       "filename": "1973_bmw_3-0-csl_86ee7c.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1973_bmw_3-0-csl_86ee7c.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/1973_bmw_3-0-csl_86ee7c.glb",
       "size": 5291572,
-      "added": "2026-02-11T19:53:16.650Z"
+      "added": "2026-02-11T19:55:33.074Z"
     },
     {
       "id": "1989_lincoln_town-car_3a46f0",
@@ -119,9 +119,9 @@
       "model": "LINCOLN TOWN CAR 3A46F0",
       "year": null,
       "filename": "1989_lincoln_town-car_3a46f0.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1989_lincoln_town-car_3a46f0.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/1989_lincoln_town-car_3a46f0.glb",
       "size": 59447100,
-      "added": "2026-02-11T19:53:16.650Z"
+      "added": "2026-02-11T19:55:33.075Z"
     },
     {
       "id": "1993_bmw_coupe-e36-_764010",
@@ -129,9 +129,9 @@
       "model": "BMW COUPE E36  764010",
       "year": null,
       "filename": "1993_bmw_coupe-e36-_764010.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1993_bmw_coupe-e36-_764010.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/1993_bmw_coupe-e36-_764010.glb",
       "size": 2886744,
-      "added": "2026-02-11T19:53:16.651Z"
+      "added": "2026-02-11T19:55:33.075Z"
     },
     {
       "id": "2008_acura_-15-lowe-s_819d5b",
@@ -139,9 +139,9 @@
       "model": "ACURA  15 LOWE S 819D5B",
       "year": null,
       "filename": "2008_acura_-15-lowe-s_819d5b.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2008_acura_-15-lowe-s_819d5b.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2008_acura_-15-lowe-s_819d5b.glb",
       "size": 8594288,
-      "added": "2026-02-11T19:53:16.651Z"
+      "added": "2026-02-11T19:55:33.075Z"
     },
     {
       "id": "2010_lamborghini_gallardo-lp550-2_c8d5ec",
@@ -149,9 +149,9 @@
       "model": "LAMBORGHINI GALLARDO LP550 2 C8D5EC",
       "year": null,
       "filename": "2010_lamborghini_gallardo-lp550-2_c8d5ec.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2010_lamborghini_gallardo-lp550-2_c8d5ec.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2010_lamborghini_gallardo-lp550-2_c8d5ec.glb",
       "size": 3985756,
-      "added": "2026-02-11T19:53:16.651Z"
+      "added": "2026-02-11T19:55:33.076Z"
     },
     {
       "id": "2011_ginetta_g60_56f7ee",
@@ -159,9 +159,9 @@
       "model": "GINETTA G60 56F7EE",
       "year": null,
       "filename": "2011_ginetta_g60_56f7ee.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2011_ginetta_g60_56f7ee.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2011_ginetta_g60_56f7ee.glb",
       "size": 5886784,
-      "added": "2026-02-11T19:53:16.652Z"
+      "added": "2026-02-11T19:55:33.076Z"
     },
     {
       "id": "2011_lamborghini_gallardo-lp560_85d82c",
@@ -169,9 +169,9 @@
       "model": "LAMBORGHINI GALLARDO LP560 85D82C",
       "year": null,
       "filename": "2011_lamborghini_gallardo-lp560_85d82c.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2011_lamborghini_gallardo-lp560_85d82c.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2011_lamborghini_gallardo-lp560_85d82c.glb",
       "size": 3103280,
-      "added": "2026-02-11T19:53:16.652Z"
+      "added": "2026-02-11T19:55:33.076Z"
     },
     {
       "id": "2011_lamborghini_gallardo-lp570-4_d87095",
@@ -179,9 +179,9 @@
       "model": "LAMBORGHINI GALLARDO LP570 4 D87095",
       "year": null,
       "filename": "2011_lamborghini_gallardo-lp570-4_d87095.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2011_lamborghini_gallardo-lp570-4_d87095.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2011_lamborghini_gallardo-lp570-4_d87095.glb",
       "size": 18887560,
-      "added": "2026-02-11T19:53:16.652Z"
+      "added": "2026-02-11T19:55:33.077Z"
     },
     {
       "id": "2012_chevrolet_camaro-zl1_4b58ae",
@@ -189,9 +189,9 @@
       "model": "CHEVROLET CAMARO ZL1 4B58AE",
       "year": null,
       "filename": "2012_chevrolet_camaro-zl1_4b58ae.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2012_chevrolet_camaro-zl1_4b58ae.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2012_chevrolet_camaro-zl1_4b58ae.glb",
       "size": 6203580,
-      "added": "2026-02-11T19:53:16.653Z"
+      "added": "2026-02-11T19:55:33.077Z"
     },
     {
       "id": "2012_dodge_charger-r-t_5ad6db",
@@ -199,9 +199,9 @@
       "model": "DODGE CHARGER R T 5AD6DB",
       "year": null,
       "filename": "2012_dodge_charger-r-t_5ad6db.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2012_dodge_charger-r-t_5ad6db.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2012_dodge_charger-r-t_5ad6db.glb",
       "size": 3496548,
-      "added": "2026-02-11T19:53:16.653Z"
+      "added": "2026-02-11T19:55:33.077Z"
     },
     {
       "id": "2012_mini_cooper-coupe_d01be0",
@@ -209,9 +209,9 @@
       "model": "MINI COOPER COUPE D01BE0",
       "year": null,
       "filename": "2012_mini_cooper-coupe_d01be0.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2012_mini_cooper-coupe_d01be0.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2012_mini_cooper-coupe_d01be0.glb",
       "size": 3418032,
-      "added": "2026-02-11T19:53:16.653Z"
+      "added": "2026-02-11T19:55:33.078Z"
     },
     {
       "id": "2013_bentley_continental-speed_271650",
@@ -219,9 +219,9 @@
       "model": "BENTLEY CONTINENTAL SPEED 271650",
       "year": null,
       "filename": "2013_bentley_continental-speed_271650.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2013_bentley_continental-speed_271650.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2013_bentley_continental-speed_271650.glb",
       "size": 3895168,
-      "added": "2026-02-11T19:53:16.654Z"
+      "added": "2026-02-11T19:55:33.078Z"
     },
     {
       "id": "2013_chevrolet_corvette-z06_f8d8ef",
@@ -229,9 +229,9 @@
       "model": "CHEVROLET CORVETTE Z06 F8D8EF",
       "year": null,
       "filename": "2013_chevrolet_corvette-z06_f8d8ef.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2013_chevrolet_corvette-z06_f8d8ef.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2013_chevrolet_corvette-z06_f8d8ef.glb",
       "size": 6985012,
-      "added": "2026-02-11T19:53:16.654Z"
+      "added": "2026-02-11T19:55:33.078Z"
     },
     {
       "id": "2015_mini_cooper-roadster_016f43",
@@ -239,9 +239,9 @@
       "model": "MINI COOPER ROADSTER 016F43",
       "year": null,
       "filename": "2015_mini_cooper-roadster_016f43.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2015_mini_cooper-roadster_016f43.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2015_mini_cooper-roadster_016f43.glb",
       "size": 4266904,
-      "added": "2026-02-11T19:53:16.654Z"
+      "added": "2026-02-11T19:55:33.079Z"
     },
     {
       "id": "2016_mercedes-benz_amg_with-interior_323167",
@@ -249,9 +249,9 @@
       "model": "MERCEDES BENZ AMG WITH INTERIOR 323167",
       "year": null,
       "filename": "2016_mercedes-benz_amg_with-interior_323167.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2016_mercedes-benz_amg_with-interior_323167.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2016_mercedes-benz_amg_with-interior_323167.glb",
       "size": 39219716,
-      "added": "2026-02-11T19:53:16.655Z"
+      "added": "2026-02-11T19:55:33.079Z"
     },
     {
       "id": "2017_jaguar_f-type-convertible_8728ea",
@@ -259,9 +259,9 @@
       "model": "JAGUAR F TYPE CONVERTIBLE 8728EA",
       "year": null,
       "filename": "2017_jaguar_f-type-convertible_8728ea.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2017_jaguar_f-type-convertible_8728ea.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2017_jaguar_f-type-convertible_8728ea.glb",
       "size": 27836976,
-      "added": "2026-02-11T19:53:16.655Z"
+      "added": "2026-02-11T19:55:33.079Z"
     },
     {
       "id": "2017_mini_john-cooper_021d51",
@@ -269,9 +269,9 @@
       "model": "MINI JOHN COOPER 021D51",
       "year": null,
       "filename": "2017_mini_john-cooper_021d51.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2017_mini_john-cooper_021d51.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2017_mini_john-cooper_021d51.glb",
       "size": 3424572,
-      "added": "2026-02-11T19:53:16.655Z"
+      "added": "2026-02-11T19:55:33.080Z"
     },
     {
       "id": "2018_kuhl_racing-vab-gt_d9247a",
@@ -279,9 +279,9 @@
       "model": "KUHL RACING VAB GT D9247A",
       "year": null,
       "filename": "2018_kuhl_racing-vab-gt_d9247a.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2018_kuhl_racing-vab-gt_d9247a.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2018_kuhl_racing-vab-gt_d9247a.glb",
       "size": 19065632,
-      "added": "2026-02-11T19:53:16.656Z"
+      "added": "2026-02-11T19:55:33.080Z"
     },
     {
       "id": "2018_subaru_wrx-kuhl_b4f03b",
@@ -289,9 +289,9 @@
       "model": "SUBARU WRX KUHL B4F03B",
       "year": null,
       "filename": "2018_subaru_wrx-kuhl_b4f03b.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2018_subaru_wrx-kuhl_b4f03b.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2018_subaru_wrx-kuhl_b4f03b.glb",
       "size": 18820980,
-      "added": "2026-02-11T19:53:16.656Z"
+      "added": "2026-02-11T19:55:33.081Z"
     },
     {
       "id": "2018_subaru_wrx-sti_96a423",
@@ -299,9 +299,9 @@
       "model": "SUBARU WRX STI 96A423",
       "year": null,
       "filename": "2018_subaru_wrx-sti_96a423.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2018_subaru_wrx-sti_96a423.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2018_subaru_wrx-sti_96a423.glb",
       "size": 13336964,
-      "added": "2026-02-11T19:53:16.656Z"
+      "added": "2026-02-11T19:55:33.081Z"
     },
     {
       "id": "2019_bugatti_divo_9ea5a8",
@@ -309,9 +309,9 @@
       "model": "BUGATTI DIVO 9EA5A8",
       "year": null,
       "filename": "2019_bugatti_divo_9ea5a8.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2019_bugatti_divo_9ea5a8.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2019_bugatti_divo_9ea5a8.glb",
       "size": 16507744,
-      "added": "2026-02-11T19:53:16.657Z"
+      "added": "2026-02-11T19:55:33.081Z"
     },
     {
       "id": "2019_ferrari_488-pista_dc4283",
@@ -319,9 +319,9 @@
       "model": "FERRARI 488 PISTA DC4283",
       "year": null,
       "filename": "2019_ferrari_488-pista_dc4283.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2019_ferrari_488-pista_dc4283.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2019_ferrari_488-pista_dc4283.glb",
       "size": 17400728,
-      "added": "2026-02-11T19:53:16.657Z"
+      "added": "2026-02-11T19:55:33.082Z"
     },
     {
       "id": "2019_mclaren_600lt_23d876",
@@ -329,9 +329,9 @@
       "model": "MCLAREN 600LT 23D876",
       "year": null,
       "filename": "2019_mclaren_600lt_23d876.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2019_mclaren_600lt_23d876.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2019_mclaren_600lt_23d876.glb",
       "size": 6288656,
-      "added": "2026-02-11T19:53:16.657Z"
+      "added": "2026-02-11T19:55:33.082Z"
     },
     {
       "id": "2020_bmw_m340i-xdrive_69dbf0",
@@ -339,9 +339,9 @@
       "model": "BMW M340I XDRIVE 69DBF0",
       "year": null,
       "filename": "2020_bmw_m340i-xdrive_69dbf0.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_bmw_m340i-xdrive_69dbf0.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_bmw_m340i-xdrive_69dbf0.glb",
       "size": 13834772,
-      "added": "2026-02-11T19:53:16.658Z"
+      "added": "2026-02-11T19:55:33.083Z"
     },
     {
       "id": "2020_ford_shelby-gt500_6c4130",
@@ -349,9 +349,9 @@
       "model": "FORD SHELBY GT500 6C4130",
       "year": null,
       "filename": "2020_ford_shelby-gt500_6c4130.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_ford_shelby-gt500_6c4130.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_ford_shelby-gt500_6c4130.glb",
       "size": 3440172,
-      "added": "2026-02-11T19:53:16.658Z"
+      "added": "2026-02-11T19:55:33.083Z"
     },
     {
       "id": "2020_hennessey_venom_29560d",
@@ -359,9 +359,9 @@
       "model": "HENNESSEY VENOM 29560D",
       "year": null,
       "filename": "2020_hennessey_venom_29560d.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_hennessey_venom_29560d.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_hennessey_venom_29560d.glb",
       "size": 2625928,
-      "added": "2026-02-11T19:53:16.658Z"
+      "added": "2026-02-11T19:55:33.083Z"
     },
     {
       "id": "2020_koenigsegg_jesko_37d64f",
@@ -369,9 +369,9 @@
       "model": "KOENIGSEGG JESKO 37D64F",
       "year": null,
       "filename": "2020_koenigsegg_jesko_37d64f.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_koenigsegg_jesko_37d64f.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_koenigsegg_jesko_37d64f.glb",
       "size": 6163132,
-      "added": "2026-02-11T19:53:16.659Z"
+      "added": "2026-02-11T19:55:33.084Z"
     },
     {
       "id": "2020_mini_john-cooper_f8fa04",
@@ -379,9 +379,9 @@
       "model": "MINI JOHN COOPER F8FA04",
       "year": null,
       "filename": "2020_mini_john-cooper_f8fa04.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_mini_john-cooper_f8fa04.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_mini_john-cooper_f8fa04.glb",
       "size": 13515828,
-      "added": "2026-02-11T19:53:16.659Z"
+      "added": "2026-02-11T19:55:33.084Z"
     },
     {
       "id": "2020_racing_point-rp20_1e395a",
@@ -389,9 +389,9 @@
       "model": "RACING POINT RP20 1E395A",
       "year": null,
       "filename": "2020_racing_point-rp20_1e395a.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_racing_point-rp20_1e395a.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_racing_point-rp20_1e395a.glb",
       "size": 3112420,
-      "added": "2026-02-11T19:53:16.659Z"
+      "added": "2026-02-11T19:55:33.084Z"
     },
     {
       "id": "2020_red_bull-rb16_9f6e6e",
@@ -399,9 +399,9 @@
       "model": "RED BULL RB16 9F6E6E",
       "year": null,
       "filename": "2020_red_bull-rb16_9f6e6e.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_red_bull-rb16_9f6e6e.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_red_bull-rb16_9f6e6e.glb",
       "size": 2914812,
-      "added": "2026-02-11T19:53:16.660Z"
+      "added": "2026-02-11T19:55:33.085Z"
     },
     {
       "id": "2020_renault_rs20_9a9084",
@@ -409,9 +409,9 @@
       "model": "RENAULT RS20 9A9084",
       "year": null,
       "filename": "2020_renault_rs20_9a9084.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_renault_rs20_9a9084.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_renault_rs20_9a9084.glb",
       "size": 2926088,
-      "added": "2026-02-11T19:53:16.660Z"
+      "added": "2026-02-11T19:55:33.085Z"
     },
     {
       "id": "2020_whilliams_fw43_04f2a8",
@@ -419,9 +419,9 @@
       "model": "WHILLIAMS FW43 04F2A8",
       "year": null,
       "filename": "2020_whilliams_fw43_04f2a8.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_whilliams_fw43_04f2a8.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_whilliams_fw43_04f2a8.glb",
       "size": 2992956,
-      "added": "2026-02-11T19:53:16.660Z"
+      "added": "2026-02-11T19:55:33.085Z"
     },
     {
       "id": "2021_ferrari_sf90-spider_94a830",
@@ -429,9 +429,9 @@
       "model": "FERRARI SF90 SPIDER 94A830",
       "year": null,
       "filename": "2021_ferrari_sf90-spider_94a830.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2021_ferrari_sf90-spider_94a830.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2021_ferrari_sf90-spider_94a830.glb",
       "size": 19333032,
-      "added": "2026-02-11T19:53:16.661Z"
+      "added": "2026-02-11T19:55:33.086Z"
     },
     {
       "id": "2021_koenigsegg_gemera_fdf0a6",
@@ -439,9 +439,9 @@
       "model": "KOENIGSEGG GEMERA FDF0A6",
       "year": null,
       "filename": "2021_koenigsegg_gemera_fdf0a6.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2021_koenigsegg_gemera_fdf0a6.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2021_koenigsegg_gemera_fdf0a6.glb",
       "size": 15943568,
-      "added": "2026-02-11T19:53:16.661Z"
+      "added": "2026-02-11T19:55:33.086Z"
     },
     {
       "id": "2021_mclaren_mcl35m_e289bd",
@@ -449,9 +449,9 @@
       "model": "MCLAREN MCL35M E289BD",
       "year": null,
       "filename": "2021_mclaren_mcl35m_e289bd.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2021_mclaren_mcl35m_e289bd.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2021_mclaren_mcl35m_e289bd.glb",
       "size": 3070236,
-      "added": "2026-02-11T19:53:16.661Z"
+      "added": "2026-02-11T19:55:33.086Z"
     },
     {
       "id": "2021_mercedes-benz_w12_b298d2",
@@ -459,9 +459,9 @@
       "model": "MERCEDES BENZ W12 B298D2",
       "year": null,
       "filename": "2021_mercedes-benz_w12_b298d2.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2021_mercedes-benz_w12_b298d2.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2021_mercedes-benz_w12_b298d2.glb",
       "size": 2957908,
-      "added": "2026-02-11T19:53:16.662Z"
+      "added": "2026-02-11T19:55:33.087Z"
     },
     {
       "id": "2021_porsche_911_597734",
@@ -469,9 +469,9 @@
       "model": "PORSCHE 911 597734",
       "year": null,
       "filename": "2021_porsche_911_597734.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2021_porsche_911_597734.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2021_porsche_911_597734.glb",
       "size": 7169184,
-      "added": "2026-02-11T19:53:16.662Z"
+      "added": "2026-02-11T19:55:33.087Z"
     },
     {
       "id": "2022_lamborghini_countach-lpi_a4d4a9",
@@ -479,9 +479,9 @@
       "model": "LAMBORGHINI COUNTACH LPI A4D4A9",
       "year": null,
       "filename": "2022_lamborghini_countach-lpi_a4d4a9.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2022_lamborghini_countach-lpi_a4d4a9.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2022_lamborghini_countach-lpi_a4d4a9.glb",
       "size": 20233396,
-      "added": "2026-02-11T19:53:16.662Z"
+      "added": "2026-02-11T19:55:33.087Z"
     },
     {
       "id": "2022_porsche_911-gt3_593c83",
@@ -489,9 +489,9 @@
       "model": "PORSCHE 911 GT3 593C83",
       "year": null,
       "filename": "2022_porsche_911-gt3_593c83.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2022_porsche_911-gt3_593c83.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2022_porsche_911-gt3_593c83.glb",
       "size": 17589288,
-      "added": "2026-02-11T19:53:16.663Z"
+      "added": "2026-02-11T19:55:33.088Z"
     },
     {
       "id": "2023_lamborghini_urus-performante_23dd77",
@@ -499,9 +499,9 @@
       "model": "LAMBORGHINI URUS PERFORMANTE 23DD77",
       "year": null,
       "filename": "2023_lamborghini_urus-performante_23dd77.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2023_lamborghini_urus-performante_23dd77.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2023_lamborghini_urus-performante_23dd77.glb",
       "size": 24049604,
-      "added": "2026-02-11T19:53:16.663Z"
+      "added": "2026-02-11T19:55:33.088Z"
     },
     {
       "id": "bmw_m3_e46",
@@ -509,9 +509,9 @@
       "model": "M3 E46",
       "year": 2006,
       "filename": "bmw_m3_e46.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/bmw_m3_e46.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/bmw_m3_e46.glb",
       "size": 3739008,
-      "added": "2026-02-11T19:53:16.663Z"
+      "added": "2026-02-11T19:55:33.088Z"
     },
     {
       "id": "low_poly_car_01",
@@ -519,9 +519,9 @@
       "model": "Low Poly Car",
       "year": null,
       "filename": "low_poly_car_01.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/low_poly_car_01.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/low_poly_car_01.glb",
       "size": 447200,
-      "added": "2026-02-11T19:53:16.664Z"
+      "added": "2026-02-11T19:55:33.089Z"
     },
     {
       "id": "police_car",
@@ -529,9 +529,9 @@
       "model": "Police Car",
       "year": null,
       "filename": "police_car.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/police_car.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/police_car.glb",
       "size": 11944,
-      "added": "2026-02-11T19:53:16.664Z"
+      "added": "2026-02-11T19:55:33.089Z"
     },
     {
       "id": "sports_car_01",
@@ -539,9 +539,9 @@
       "model": "Sports Car",
       "year": null,
       "filename": "sports_car_01.glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/sports_car_01.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/sports_car_01.glb",
       "size": 0,
-      "added": "2026-02-11T19:53:16.664Z"
+      "added": "2026-02-11T19:55:33.089Z"
     }
   ]
 }
