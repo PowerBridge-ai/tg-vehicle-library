@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-02-11T21:03:03.197Z",
-  "total": 72,
+  "generated": "2026-02-11T21:04:36.990Z",
+  "total": 75,
   "vehicles": [
     {
       "id": "0000_-updated-_pagani-huayra_487f1a",
@@ -776,6 +776,45 @@
       "hasInterior": false,
       "hasSunroof": false,
       "added": "2026-02-11T21:03:03.197Z"
+    },
+    {
+      "id": "2020_haas_vf20_6d5a78",
+      "make": "HAAS",
+      "model": "VF20",
+      "year": "2020",
+      "trim": "",
+      "filename": "2020_haas_vf20_6d5a78.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_haas_vf20_6d5a78.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/6d5a786a32414edd9a7753181684e78f",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T21:03:39.274Z"
+    },
+    {
+      "id": "2020_alfa_romeo-c39_3854ad",
+      "make": "Alfa",
+      "model": "Romeo C39",
+      "year": "2020",
+      "trim": "",
+      "filename": "2020_alfa_romeo-c39_3854ad.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2020_alfa_romeo-c39_3854ad.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/3854ade7db224b3ebfd1455f5c1abcab",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T21:04:06.346Z"
+    },
+    {
+      "id": "2021_aston_martin-amr21_d9bcb7",
+      "make": "Aston",
+      "model": "Martin AMR21",
+      "year": "2021",
+      "trim": "",
+      "filename": "2021_aston_martin-amr21_d9bcb7.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2021_aston_martin-amr21_d9bcb7.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/d9bcb7c626f341bf9c3b9b74421ac028",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T21:04:36.990Z"
     }
   ]
 }
