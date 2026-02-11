@@ -1,22 +1,8 @@
 {
   "version": "1.0",
-  "generated": "2026-02-11T18:44:05.406Z",
-  "total": 18,
+  "generated": "2026-02-11T18:48:34.427Z",
+  "total": 5,
   "vehicles": [
-    {
-      "id": "4b08f4f94eda45afae068c0f21346f97",
-      "make": "ZIS",
-      "model": "101A Sport",
-      "year": "1938",
-      "trim": "",
-      "filename": "1938_zis_101a-sport_4b08f4",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1938_zis_101a-sport_4b08f4.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/4b08f4f94eda45afae068c0f21346f97",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
     {
       "id": "312ab6595d3e4ebd8ee1c18ff25fa048",
       "make": "Mercedes",
@@ -29,7 +15,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/312ab6595d3e4ebd8ee1c18ff25fa048",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
+      "added": "2026-02-11T18:48:34.426Z"
     },
     {
       "id": "323167df949a45939d955430cce75d4f",
@@ -43,7 +29,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/323167df949a45939d955430cce75d4f",
       "hasInterior": true,
       "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
+      "added": "2026-02-11T18:48:34.427Z"
     },
     {
       "id": "85d82c5f3da041378c8807a448d26022",
@@ -57,7 +43,7 @@
       "sourceUrl": "https://sketchfab.com/3d-models/85d82c5f3da041378c8807a448d26022",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
+      "added": "2026-02-11T18:48:34.427Z"
     },
     {
       "id": "c8d5ecb9b24e4c94b066194645c3cf71",
@@ -71,189 +57,21 @@
       "sourceUrl": "https://sketchfab.com/3d-models/c8d5ecb9b24e4c94b066194645c3cf71",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
+      "added": "2026-02-11T18:48:34.427Z"
     },
     {
-      "id": "d87095db289f405bb43aa086bb4321d0",
-      "make": "Lamborghini",
-      "model": "Gallardo LP570-4",
-      "year": "2011",
-      "trim": "",
-      "filename": "2011_lamborghini_gallardo-lp570-4_d87095",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2011_lamborghini_gallardo-lp570-4_d87095.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/d87095db289f405bb43aa086bb4321d0",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "86ee7c1a83334576933ab431542269d5",
-      "make": "BMW",
-      "model": "3.0 CSL",
-      "year": "1973",
-      "trim": "",
-      "filename": "1973_bmw_3-0-csl_86ee7c",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/1973_bmw_3-0-csl_86ee7c.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/86ee7c1a83334576933ab431542269d5",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "b4f03b00fe6646fa88ff93390255416e",
-      "make": "Subaru",
-      "model": "WRX KUHL",
-      "year": "2018",
-      "trim": "",
-      "filename": "2018_subaru_wrx-kuhl_b4f03b",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2018_subaru_wrx-kuhl_b4f03b.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/b4f03b00fe6646fa88ff93390255416e",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "9ea5a8fbc96c48c3988748bad801aadd",
-      "make": "Bugatti",
-      "model": "Divo",
-      "year": "2019",
-      "trim": "",
-      "filename": "2019_bugatti_divo_9ea5a8",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2019_bugatti_divo_9ea5a8.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/9ea5a8fbc96c48c3988748bad801aadd",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "593c83f3662a4a45a016f95dedd9f243",
+      "id": "081cf9a708bb4b8b8f14d55b56ffdfe9",
       "make": "Porsche",
-      "model": "911 GT3",
-      "year": "2022",
-      "trim": "",
-      "filename": "2022_porsche_911-gt3_593c83",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2022_porsche_911-gt3_593c83.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/593c83f3662a4a45a016f95dedd9f243",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "dc4283bb1644413a9afd968ebd6e5097",
-      "make": "Ferrari",
-      "model": "488 Pista",
-      "year": "2019",
-      "trim": "",
-      "filename": "2019_ferrari_488-pista_dc4283",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2019_ferrari_488-pista_dc4283.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/dc4283bb1644413a9afd968ebd6e5097",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "819d5b8e01ae4fc586429fe0bced1ac7",
-      "make": "Acura",
-      "model": "#15 Lowe's",
-      "year": "2008",
-      "trim": "",
-      "filename": "2008_acura_-15-lowe-s_819d5b",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2008_acura_-15-lowe-s_819d5b.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/819d5b8e01ae4fc586429fe0bced1ac7",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "29560d4095a248f6add7d2563de22376",
-      "make": "Hennessey",
-      "model": "Venom",
-      "year": "2020",
-      "trim": "",
-      "filename": "2020_hennessey_venom_29560d",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_hennessey_venom_29560d.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/29560d4095a248f6add7d2563de22376",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "37d64f2dcc374ee8a52ab92c61519663",
-      "make": "Koenigsegg",
-      "model": "Jesko",
-      "year": "2020",
-      "trim": "",
-      "filename": "2020_koenigsegg_jesko_37d64f",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_koenigsegg_jesko_37d64f.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/37d64f2dcc374ee8a52ab92c61519663",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "6c41306ae69b47a495d744ef9c5e70d1",
-      "make": "Ford",
-      "model": "Shelby GT500",
-      "year": "2020",
-      "trim": "",
-      "filename": "2020_ford_shelby-gt500_6c4130",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2020_ford_shelby-gt500_6c4130.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/6c41306ae69b47a495d744ef9c5e70d1",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "e289bda456e145a6b62c668ddba18d71",
-      "make": "McLaren",
-      "model": "MCL35M",
-      "year": "2021",
-      "trim": "",
-      "filename": "2021_mclaren_mcl35m_e289bd",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/2021_mclaren_mcl35m_e289bd.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/e289bda456e145a6b62c668ddba18d71",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "e984e36cabe943e1b953a276f145ecdf",
-      "make": "Dodge",
-      "model": "SRT Viper",
+      "model": "911 Turbo",
       "year": "0000",
       "trim": "",
-      "filename": "0000_dodge_srt-viper_e984e3",
+      "filename": "0000_porsche_911-turbo_081cf9",
       "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/0000_dodge_srt-viper_e984e3.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/e984e36cabe943e1b953a276f145ecdf",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/0000_porsche_911-turbo_081cf9.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/081cf9a708bb4b8b8f14d55b56ffdfe9",
       "hasInterior": false,
       "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
-    },
-    {
-      "id": "c75bdaeb3e0349938bd63c095d20f5c0",
-      "make": "Honda",
-      "model": "S800 www.vecarz.com",
-      "year": "0000",
-      "trim": "",
-      "filename": "0000_honda_s800-www-vecarz-com_c75bda",
-      "type": "glb",
-      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/main/0000_honda_s800-www-vecarz-com_c75bda.glb",
-      "sourceUrl": "https://sketchfab.com/3d-models/c75bdaeb3e0349938bd63c095d20f5c0",
-      "hasInterior": false,
-      "hasSunroof": false,
-      "added": "2026-02-11T18:44:05.406Z"
+      "added": "2026-02-11T18:48:34.427Z"
     }
   ]
 }
