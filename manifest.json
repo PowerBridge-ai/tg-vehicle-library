@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-02-11T20:52:52.824Z",
-  "total": 60,
+  "generated": "2026-02-11T20:55:22.300Z",
+  "total": 63,
   "vehicles": [
     {
       "id": "0000_-updated-_pagani-huayra_487f1a",
@@ -620,6 +620,45 @@
       "hasInterior": false,
       "hasSunroof": false,
       "added": "2026-02-11T20:52:52.824Z"
+    },
+    {
+      "id": "2016_mini_john-cooper_704688",
+      "make": "Mini",
+      "model": "John Cooper",
+      "year": "2016",
+      "trim": "",
+      "filename": "2016_mini_john-cooper_704688.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2016_mini_john-cooper_704688.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/704688ec24e04155aa45a1a2018286eb",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:54:11.772Z"
+    },
+    {
+      "id": "2014_mini_cooper-f56-_bec893",
+      "make": "Mini",
+      "model": "Cooper (F56)",
+      "year": "2014",
+      "trim": "",
+      "filename": "2014_mini_cooper-f56-_bec893.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2014_mini_cooper-f56-_bec893.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/bec89391257c426d824a8b0434bbcf6b",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:54:48.857Z"
+    },
+    {
+      "id": "2005_pagani_zonda_708ee2",
+      "make": "Pagani",
+      "model": "Zonda",
+      "year": "2005",
+      "trim": "",
+      "filename": "2005_pagani_zonda_708ee2.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2005_pagani_zonda_708ee2.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/708ee246211244a88aa3c36f0f21f4df",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:55:22.300Z"
     }
   ]
 }
