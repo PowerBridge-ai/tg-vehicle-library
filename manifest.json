@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "generated": "2026-02-11T20:55:22.300Z",
-  "total": 63,
+  "generated": "2026-02-11T20:59:30.353Z",
+  "total": 66,
   "vehicles": [
     {
       "id": "0000_-updated-_pagani-huayra_487f1a",
@@ -659,6 +659,45 @@
       "hasInterior": false,
       "hasSunroof": false,
       "added": "2026-02-11T20:55:22.300Z"
+    },
+    {
+      "id": "2015_pandem_mazda-mx-5_4abed8",
+      "make": "Pandem",
+      "model": "Mazda MX-5",
+      "year": "2015",
+      "trim": "",
+      "filename": "2015_pandem_mazda-mx-5_4abed8.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2015_pandem_mazda-mx-5_4abed8.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/4abed89f152b4196b96b6fd1a2ec771e",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:58:31.068Z"
+    },
+    {
+      "id": "2009_lamborghini_gallardo-lp560-4_6e3c7e",
+      "make": "Lamborghini",
+      "model": "Gallardo LP560-4",
+      "year": "2009",
+      "trim": "",
+      "filename": "2009_lamborghini_gallardo-lp560-4_6e3c7e.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/2009_lamborghini_gallardo-lp560-4_6e3c7e.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/6e3c7e9e09024805a17459e0e9968030",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:58:54.154Z"
+    },
+    {
+      "id": "1984_ferrari_288-gto_0ce7dc",
+      "make": "Ferrari",
+      "model": "288 GTO",
+      "year": "1984",
+      "trim": "",
+      "filename": "1984_ferrari_288-gto_0ce7dc.glb",
+      "url": "https://raw.githubusercontent.com/PowerBridge-ai/tg-vehicle-library/master/1984_ferrari_288-gto_0ce7dc.glb",
+      "sourceUrl": "https://sketchfab.com/3d-models/0ce7dc695f764452ac4ed73166cd9f82",
+      "hasInterior": false,
+      "hasSunroof": false,
+      "added": "2026-02-11T20:59:30.353Z"
     }
   ]
 }
